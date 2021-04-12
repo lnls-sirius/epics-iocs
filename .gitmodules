@@ -1,0 +1,45 @@
+[submodule "cas-rf-u2021xa"]
+	path = cas-rf-u2021xa
+	url = https://github.com/lnls-sirius/cas-rf-u2021xa
+[submodule "cas-rf-ssa"]
+	path = cas-rf-ssa
+	url = https://github.com/lnls-sirius/cas-rf-ssa
+[submodule "cas-rf-tcu6"]
+	path = cas-rf-tcu6
+	url = https://github.com/lnls-sirius/cas-rf-tcu6
+[submodule "cas-rf-calc"]
+	path = cas-rf-calc
+	url = https://github.com/lnls-sirius/cas-rf-calc
+[submodule "cas-rf-poe-adc"]
+	path = cas-rf-poe-adc
+	url = https://github.com/lnls-sirius/cas-rf-poe-adc
+[submodule "cas-rf-calibration-module"]
+	path = cas-rf-calibration-module
+	url = https://github.com/lnls-sirius/cas-rf-calibration-module
+[submodule "cas-rf-motor-driver"]
+	path = cas-rf-motor-driver
+	url = https://github.com/lnls-sirius/cas-rf-motor-driver
+[submodule "streamdevice-ioc"]
+	path = streamdevice-ioc
+	url = https://github.com/lnls-sirius/streamdevice-ioc
+[submodule "regatron-ioc"]
+	path = regatron-ioc
+	url = https://github.com/lnls-sirius/regatron-ioc
+[submodule "etherip-ioc"]
+	path = etherip-ioc
+	url = https://github.com/lnls-sirius/etherip-ioc
+[submodule "sirius-calc-ioc"]
+	path = sirius-calc-ioc
+	url = https://github.com/lnls-sirius/sirius-calc-ioc
+[submodule "docker-epics-deps"]
+	path = docker-epics-deps
+	url = https://github.com/lnls-sirius/docker-epics-deps
+[submodule "docker-epics-base"]
+	path = docker-epics-base
+	url = https://github.com/lnls-sirius/docker-epics-base
+[submodule "docker-epics-synapps"]
+	path = docker-epics-synapps
+	url = https://github.com/lnls-sirius/docker-epics-synapps
+[submodule "docker-epics-dist"]
+	path = docker-epics-dist
+	url = https://github.com/lnls-sirius/docker-epics-dist

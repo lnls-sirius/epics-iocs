@@ -58,3 +58,69 @@
 	path = docker-epics-dist
 	url = https://github.com/lnls-sirius/docker-epics-dist
 	branch = master
+[submodule "docker-agilent33521a-epics-ioc"]
+	path = docker-agilent33521a-epics-ioc
+	url = https://github.com/lnls-dig/docker-agilent33521a-epics-ioc
+[submodule "agilent33521a-epics-ioc"]
+	path = agilent33521a-epics-ioc
+	url = https://github.com/lnls-dig/agilent33521a-epics-ioc
+[submodule "ar-amp-epics-ioc"]
+	path = ar-amp-epics-ioc
+	url = https://github.com/lnls-dig/ar-amp-epics-ioc
+[submodule "docker-ar-amp-epics-ioc"]
+	path = docker-ar-amp-epics-ioc
+	url = https://github.com/lnls-dig/docker-ar-amp-epics-ioc
+[submodule "docker-dmm7510-epics-ioc"]
+	path = docker-dmm7510-epics-ioc
+	url = https://github.com/lnls-dig/docker-dmm7510-epics-ioc
+[submodule "dmm7510-epics-ioc"]
+	path = dmm7510-epics-ioc
+	url = https://github.com/lnls-dig/dmm7510-epics-ioc
+[submodule "valon5009-epics-ioc"]
+	path = valon5009-epics-ioc
+	url = https://github.com/lnls-dig/valon5009-epics-ioc
+[submodule "docker-valon5009-epics-ioc"]
+	path = docker-valon5009-epics-ioc
+	url = https://github.com/lnls-dig/docker-valon5009-epics-ioc
+[submodule "docker-tune-epics-ioc"]
+	path = docker-tune-epics-ioc
+	url = https://github.com/lnls-dig/docker-tune-epics-ioc
+[submodule "tune-epics-ioc"]
+	path = tune-epics-ioc
+	url = https://github.com/lnls-dig/tune-epics-ioc
+[submodule "sinap-timing-epics-ioc"]
+	path = sinap-timing-epics-ioc
+	url = https://github.com/lnls-dig/sinap-timing-epics-ioc
+[submodule "docker-sinap-timing-epics-ioc"]
+	path = docker-sinap-timing-epics-ioc
+	url = https://github.com/lnls-dig/docker-sinap-timing-epics-ioc
+[submodule "docker-screen-epics-ioc"]
+	path = docker-screen-epics-ioc
+	url = https://github.com/lnls-dig/docker-screen-epics-ioc
+[submodule "screen-epics-ioc"]
+	path = screen-epics-ioc
+	url = https://github.com/lnls-dig/screen-epics-ioc
+[submodule "rsfsx-epics-ioc"]
+	path = rsfsx-epics-ioc
+	url = https://github.com/lnls-dig/rsfsx-epics-ioc
+[submodule "docker-rsfsx-epics-ioc"]
+	path = docker-rsfsx-epics-ioc
+	url = https://github.com/lnls-dig/docker-rsfsx-epics-ioc
+[submodule "galil-dmc30017-epics-ioc"]
+	path = galil-dmc30017-epics-ioc
+	url = https://github.com/lnls-dig/galil-dmc30017-epics-ioc
+[submodule "docker-galil-dmc30017-epics-ioc"]
+	path = docker-galil-dmc30017-epics-ioc
+	url = https://github.com/lnls-dig/docker-galil-dmc30017-epics-ioc
+[submodule "basler-aca1300-75gm-epics-ioc"]
+	path = basler-aca1300-75gm-epics-ioc
+	url = https://github.com/lnls-dig/basler-aca1300-75gm-epics-ioc
+[submodule "docker-basler-aca1300-75gm-epics-ioc"]
+	path = docker-basler-aca1300-75gm-epics-ioc
+	url = https://github.com/lnls-dig/docker-basler-aca1300-75gm-epics-ioc
+[submodule "docker-diff-ctrl-epics-ioc"]
+	path = docker-diff-ctrl-epics-ioc
+	url = https://github.com/lnls-dig/docker-diff-ctrl-epics-ioc
+[submodule "diff-ctrl-epics-ioc"]
+	path = diff-ctrl-epics-ioc
+	url = https://github.com/lnls-dig/diff-ctrl-epics-ioc

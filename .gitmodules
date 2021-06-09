@@ -124,3 +124,9 @@
 [submodule "diff-ctrl-epics-ioc"]
 	path = iocs/diff-ctrl-epics-ioc
 	url = https://github.com/lnls-dig/diff-ctrl-epics-ioc
+[submodule "base-images/docker-aravisGigE-epics-module"]
+	path = base-images/docker-aravisGigE-epics-module
+	url = https://github.com/lnls-dig/docker-aravisGigE-epics-module
+[submodule "base-images/docker-galil-epics-module"]
+	path = base-images/docker-galil-epics-module
+	url = https://github.com/lnls-dig/docker-galil-epics-module

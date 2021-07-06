@@ -148,9 +148,9 @@
 	branch = master
 [submodule "base-images/docker-aravisGigE-epics-module"]
 	path = base-images/docker-aravisGigE-epics-module
-	url = https://github.com/lnls-sirius/docker-aravisGigE-epics-module
+	url = https://github.com/lnls-dig/docker-aravisGigE-epics-module
 	branch = master
 [submodule "base-images/docker-galil-epics-module"]
 	path = base-images/docker-galil-epics-module
-    url = https://github.com/lnls-sirius/docker-galil-epics-module
+	url = https://github.com/lnls-dig/docker-galil-epics-module
 	branch = master

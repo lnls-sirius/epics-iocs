@@ -162,7 +162,3 @@
 	branch = caputlog
 	path = iocs/rssmx100a-epics-ioc
 	url = https://github.com/lnls-sirius/rssmx100a-epics-ioc
-[submodule "base-images/epics-dev"]
-	branch = master
-	path = base-images/epics-dev
-	url = https://github.com/lnls-sirius/epics-dev.git

@@ -154,11 +154,10 @@
 	path = base-images/docker-galil-epics-module
 	url = https://github.com/lnls-dig/docker-galil-epics-module
 	branch = master
-[submodule "iocs-docker/docker-rssmx100a-epics-ioc"]
-	branch = master
-	path = iocs-docker/docker-rssmx100a-epics-ioc
-	url = https://github.com/lnls-sirius/docker-rssmx100a-epics-ioc
 [submodule "iocs/rssmx100a-epics-ioc"]
 	branch = caputlog
 	path = iocs/rssmx100a-epics-ioc
 	url = https://github.com/lnls-sirius/rssmx100a-epics-ioc
+[submodule "iocs-docker/docker-rssmx100a-epics-ioc"]
+	path = iocs-docker/docker-rssmx100a-epics-ioc
+	url = https://github.com/lnls-sirius/docker-rssmx100a-epics-ioc

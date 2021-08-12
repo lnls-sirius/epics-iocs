@@ -39,7 +39,7 @@
 	url = https://github.com/lnls-sirius/etherip-ioc
 	branch = master
 [submodule "sirius-calc-ioc"]
-	path = iocs-docker-mix/sirius-calc-ioc
+	path = iocs-docker-mix/sirius-vac-avg
 	url = https://github.com/lnls-sirius/sirius-calc-ioc
 	branch = master
 [submodule "docker-epics-deps"]
@@ -154,15 +154,10 @@
 	path = base-images/docker-galil-epics-module
 	url = https://github.com/lnls-dig/docker-galil-epics-module
 	branch = master
-[submodule "iocs-docker/docker-rssmx100a-epics-ioc"]
-	branch = master
-	path = iocs-docker/docker-rssmx100a-epics-ioc
-	url = https://github.com/lnls-sirius/docker-rssmx100a-epics-ioc
 [submodule "iocs/rssmx100a-epics-ioc"]
 	branch = caputlog
 	path = iocs/rssmx100a-epics-ioc
 	url = https://github.com/lnls-sirius/rssmx100a-epics-ioc
-[submodule "base-images/epics-dev"]
-	branch = master
-	path = base-images/epics-dev
-	url = https://github.com/lnls-sirius/epics-dev.git
+[submodule "iocs-docker/docker-rssmx100a-epics-ioc"]
+	path = iocs-docker/docker-rssmx100a-epics-ioc
+	url = https://github.com/lnls-sirius/docker-rssmx100a-epics-ioc
